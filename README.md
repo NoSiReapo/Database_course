@@ -1,1 +1,1 @@
-# Database_course
+# Курсовая по бд
